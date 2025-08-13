@@ -15,3 +15,11 @@
 - use -e . in requirements
 - code the pyproject.toml and setup.py
 - pip install - r requirements.txt
+
+## setting up notebook for mongodb
+- read the data
+- change connection url links in the notebook
+- set the mongo db setup
+- browse collections in cluster0
+
+## logging and exception modules
